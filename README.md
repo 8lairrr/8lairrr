@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👩‍🚀 Hi, I'm Delia Holman!
 
-<!--
-**8lairrr/8lairrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛰️ CS + Business student at the [Raikes School](https://raikes.unl.edu/) at UNL  
+💫 Front-end developer & UI/UX design explorer  
+🌙 Currently learning: React and Tauri  
 
-Here are some ideas to get you started:
+## 🪐 What I Do
+🌠 Building accessible, aesthetic interfaces  
+🌗 Designing with intention (and Figma)  
+🛸 Exploring full-stack web development  
+🧑‍🚀 Making tech more inclusive  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Outside of My Computer
+🏋️‍♀️ At the gym  
+📖 [Reading](goodreads.com/8lairrr) fiction, fantasy, or mystery books  
+🍪 Baking sweet treats or learning new dishes  
+
+## 📡 Connect With Me
+🌠 [LinkedIn](https://linkedin.com/in/deliaholman)  
+🛰️ [Substack](https://substack.com/@8lairrr/posts?utm_campaign=unknown&utm_medium=web)  
