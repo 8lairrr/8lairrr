@@ -18,4 +18,3 @@
 
 ## 📡 Connect With Me
 🌠 [LinkedIn](https://linkedin.com/in/deliaholman)      
-🛰️ [Substack](https://substack.com/@8lairrr/posts?utm_campaign=unknown&utm_medium=web)  
