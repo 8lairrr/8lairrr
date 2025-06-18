@@ -13,7 +13,7 @@
 ## 🌍 Outside of My Computer
 🎧 Listening to [music](https://open.spotify.com/user/89mrx6pml76w3r9m5sz1wns5p?si=iluurgDlShakZFQkYDPi8g)   
 🏋️‍♀️ At the gym  
-📖 [Reading](goodreads.com/8lairrr) fiction, fantasy, or mystery books  
+📖 [Reading](https://goodreads.com/8lairrr) fiction, fantasy, or mystery books  
 🍪 Baking sweet treats or learning new dishes  
 
 ## 📡 Connect With Me
