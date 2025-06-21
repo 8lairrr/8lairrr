@@ -1,20 +1,19 @@
-# 👩‍🚀 Hi, I'm Delia Holman!
+# Hi, I'm Delia Holman! 👩🏻‍💻
 
-🛰️ CS + Business student at the [Raikes School](https://raikes.unl.edu/) at UNL  
-💫 Front-end developer & UI/UX design explorer  
-🌙 Currently learning: React and Tauri  
+Computer Science + Business student at the [Raikes School](https://raikes.unl.edu/) with a focus on User-Centered Computing. I’m passionate about front-end development and UI/UX design — I love crafting fun, user-friendly websites and playing around with design systems and animation to make tech feel more human.
 
-## 🪐 What I Do
-🌠 Building accessible, aesthetic interfaces  
-🌗 Designing with intention (and Figma)  
-🛸 Exploring full-stack web development  
-🧑‍🚀 Making tech more inclusive  
+- Currently diving into React hooks, building desktop apps with Tauri, and leveling up my accessibility skills  
+- Ask me about fitness, [books](https://goodreads.com/8lairrr), baking, or the playlist that’s always running in my [headphones](https://open.spotify.com/user/89mrx6pml76w3r9m5sz1wns5p) 🎧
 
-## 🌍 Outside of My Computer
-🎧 Listening to [music](https://open.spotify.com/user/89mrx6pml76w3r9m5sz1wns5p?si=iluurgDlShakZFQkYDPi8g)   
-🏋️‍♀️ At the gym  
-📖 [Reading](https://goodreads.com/8lairrr) fiction, fantasy, or mystery books  
-🍪 Baking sweet treats or learning new dishes  
+Always designing with intention, committed to growth, and excited to keep building tech that feels good to use.
 
-## 📡 Connect With Me
-🌠 [LinkedIn](https://linkedin.com/in/deliaholman)      
+#### Skills  
+- HTML, CSS, JavaScript  
+- UI/UX Design (Figma)  
+- React  
+- Python  
+- Tauri (in progress)
+
+### 💌 Connect with Me
+
+[🫧 LinkedIn](https://linkedin.com/in/delia-holman) &nbsp;&nbsp;|&nbsp;&nbsp; [⚡️ Spotify](https://open.spotify.com/user/89mrx6pml76w3r9m5sz1wns5p)
