@@ -10,9 +10,10 @@ Always designing with intention, committed to growth, and excited to keep buildi
 #### Skills  
 - HTML, CSS, JavaScript  
 - UI/UX Design (Figma)  
-- React  
-- Python  
-- Tauri (in progress)
+- React (Native in progress)  
+- Python
+- Electron  
+- Firebase (in progress)
 
 ### 💌 Connect with Me
 
