@@ -16,5 +16,4 @@ Always designing with intention, committed to growth, and excited to keep buildi
 - Firebase (in progress)
 
 ### 💌 Connect with Me
-
-[🫧 LinkedIn](https://linkedin.com/in/delia-holman) &nbsp;&nbsp;|&nbsp;&nbsp; [⚡️ Spotify](https://open.spotify.com/user/89mrx6pml76w3r9m5sz1wns5p)
+[💫 Portfolio](https://8lairrr.github.io/portfolio-dbh/) &nbsp;&nbsp;|&nbsp;&nbsp; [🫧 LinkedIn](https://linkedin.com/in/delia-holman) &nbsp;&nbsp;|&nbsp;&nbsp; [⚡️ Spotify](https://open.spotify.com/user/89mrx6pml76w3r9m5sz1wns5p)
