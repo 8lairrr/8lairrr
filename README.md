@@ -14,7 +14,6 @@ Always designing with intention, committed to growth, and excited to keep buildi
 - Electron
 
 #### Currently Learning:  
-- Godot through UNL's game dev club 🎮
 - React Native for mobile development through Design Studio @ UNL 📱
 
 ### 💌 Connect with Me
