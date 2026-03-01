@@ -5,7 +5,7 @@ Computer Science + Business student at the [Raikes School](https://raikes.unl.ed
 ### 💌 Connect with Me
 #### [Portfolio](https://8lairrr.github.io/) 
 #### [LinkedIn](https://linkedin.com/in/delia-holman)
-#### [itch.io](https://itch.io/profile/8lairrr)
+#### [itch.io](https://8lairrr.itch.io/)
 
 ### 🎸 Skills  
 - HTML, CSS, JavaScript  
